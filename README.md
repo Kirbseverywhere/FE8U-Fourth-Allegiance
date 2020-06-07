@@ -1,2 +1,2 @@
-# FE8U Fourth Allegiance
- An FE8U Engine Hack that adds a Fourth Allegiance to maps.
+# FE8U-Fourth-Allegiance
+ An hack that adds a fourth allegiance to FE8U
